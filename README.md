@@ -1,5 +1,5 @@
 <div width="100%">
-  <img width="100%" height="200px" src="bocchi-the-rock-kita-ikuyo.gif" />
+  <img width="100%" src="bocchi-the-rock-kita-ikuyo.gif" />
   <h1>
     <img src="https://readme-typing-svg.demolab.com?lines=Hello+There+👋;This+is+Anh+Kiet;Nice+to+meet+you+✨&font=Cascadia+Code&size=30&color=70A5FD" />
   </h1>
