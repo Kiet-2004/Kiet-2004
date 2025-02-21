@@ -11,7 +11,7 @@
   <p> <img src="kita.png" width=25> Hello, my name is Nguyen Anh Kiet.</p>
   <p> <img src="bocchi.png" width=25> I am a student at VNUHCM - University of Science, specializing in Artificial Intelligence and Data Science.</p>
   <p> <img src="ryo.png" width=25> I am currently open to work and looking for an internship position in AI/Data Engineer.</p>
-  <p> <img src="nijika.png" width=25> Reach me at <a href="https://www.facebook.com/kiet23022004/">Facebook</a>, <a href="https://www.linkedin.com/in/kietnguyenanh/">LinkedIn</a>, <a href="mailto:kiet23022004@gmail.com">Gmail</a>, or <a href="mailto:22127220@student.hcmus.edu.vn">Outlook</a>.</p></p>
+  <p> <img src="nijika.png" width=25> Reach me at <a href="https://www.facebook.com/kiet23022004/" target="_blank">Facebook</a>, <a href="https://www.linkedin.com/in/kietnguyenanh/" target="_blank">LinkedIn</a>, <a href="mailto:kiet23022004@gmail.com" target="_blank">Gmail</a>, or <a href="mailto:22127220@student.hcmus.edu.vn" target="_blank">Outlook</a>.</p></p>
 </div>
 
 <br />
