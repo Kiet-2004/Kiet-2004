@@ -27,6 +27,8 @@
   <h2> <img src="kita_sparkle.jpg" width=25> Technology</h2>
   <img alt="scikitlearn" src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="opencv" src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white" />
   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python">
   <img alt="seaborn" src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40">
